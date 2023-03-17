@@ -6,7 +6,7 @@ mainsection.appendChild(heading);
 let bodysection = document.createElement("div");
 bodysection.classList.add("container-fluid","bodysection");
 let content = document.createElement("div");
-content.innerText="Welcome to INDIA U+1F1EE, U+1F1F3";
+content.innerText="Welcome to INDIA";
 mainsection.appendChild(bodysection);
 bodysection.appendChild(content);
 content.classList.add("contentsection");
